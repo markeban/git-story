@@ -1,1 +1,9 @@
 Once upon a time, there lived a noble knight. While traveling across a bridge, he was asked 3 questions. He answered no questions because doesn't speak French.
+
+
+x = x + 1
+
+
+
+
+Knight can do alegbra
